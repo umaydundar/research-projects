@@ -1,2 +1,2 @@
 # Research-Projects
-Some research work I did during my studies
+Some research projects I did for fun
